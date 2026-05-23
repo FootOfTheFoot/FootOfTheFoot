@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Nathan Chew
 
-<!--
-**FootOfTheFoot/FootOfTheFoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Year 3 Computer Engineering student building automation, measurement and applied AI systems.
 
-Here are some ideas to get you started:
+I work on projects that connect software, hardware, data and user workflows into practical systems. My current interests include embedded systems, measurement automation, IoT-style applications, applied AI, and hardware-software integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Automation & Embedded Systems
+- [Brotanic Garden – Smart Greenhouse Monitoring & Control System](https://github.com/FootOfTheFoot/brotanic-garden-smart-greenhouse)  
+  STM32 smart greenhouse system with sensor monitoring, local dashboard, Telegram bot control, RFID/PIN access and automated plant-care workflows.
+
+- [STM32 Snack Dispenser](https://github.com/FootOfTheFoot/stm32-snack-dispenser)  
+  Embedded snack vending system with keypad input, LCD/7-segment feedback, stepper motor dispensing, DAC sound cues and service diagnostics.
+
+- [Autonomous Food Delivery Robot](https://github.com/FootOfTheFoot/autonomous-food-delivery-robot)  
+  Arduino/ESP-01 robot prototype with line-following navigation, obstacle detection and Wi-Fi remote control.
+
+### Applied AI
+- [Garlic vs Grape Image Classification](https://github.com/FootOfTheFoot/garlic-grape-classifier)  
+  TensorFlow/Keras image classification system using custom CNNs, transfer learning, confidence thresholding and TensorFlow Lite deployment.
+
+### Software Systems
+- [SPeats – Food Ordering & Queue Management App](https://github.com/FootOfTheFoot/sp-eats-food-ordering-app)  
+  Flutter/Firebase mobile app for SP food ordering with customer/vendor workflows, real-time order tracking, crowd indicators, Google Maps integration and AI poster generation.
+
+- [Smart Drink Vending Machine](https://github.com/ET0735-DevOps-AIoT-AY2510/smart-drink-vending-machine)  
+  Smart vending system with payment flow, barcode redemption, stock tracking, environmental monitoring, security alerts, admin dashboard and Docker-based testing.
+
+## Technical Areas
+
+- Embedded systems: STM32, Arduino, sensors, motor control, hardware feedback
+- Software systems: Python, C/C++, Dart/Flutter, Firebase, Docker
+- Applied AI: TensorFlow/Keras, CNNs, transfer learning, model evaluation, TensorFlow Lite
+- Systems work: automation workflows, hardware-software integration, testing and documentation
+
+## Current Direction
+
+I am building toward software and systems engineering roles where software, hardware, data and automation need to work together reliably.
+
+LinkedIn: https://www.linkedin.com/in/nathan-chew-wei-zhi/
