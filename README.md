@@ -2,7 +2,7 @@
 
 Year 3 Computer Engineering student building automation, measurement and applied AI systems.
 
-I work on projects that connect software, hardware, data and user workflows into practical systems. My current interests include embedded systems, measurement automation, IoT-style applications, applied AI, and hardware-software integration.
+I work on projects that connect software, hardware, data and user workflows into practical systems. My current interests include embedded systems, measurement automation, sensor-based systems, applied AI, and hardware-software integration.
 
 ## Featured Projects
 
