@@ -49,6 +49,6 @@ If you are reviewing my work, these projects best represent my current direction
 
 ## Current Direction
 
-I am building toward software and systems engineering roles where software, hardware, data and automation need to work together reliably.
+I am building toward software and systems engineering roles where software, hardware, data, automation and validation need to work together reliably.
 
 LinkedIn: https://www.linkedin.com/in/nathan-chew-wei-zhi/
