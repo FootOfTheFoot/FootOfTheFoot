@@ -44,8 +44,8 @@ If you are reviewing my work, these projects best represent my current direction
 
 - Embedded systems: STM32, Arduino, sensors, motor control, hardware feedback
 - Software systems: Python, C/C++, Dart/Flutter, Firebase, Docker
-- Applied AI: TensorFlow/Keras, CNNs, transfer learning, model evaluation, TensorFlow Lite
-- Systems work: automation workflows, hardware-software integration, testing and documentation
+- Applied AI: TensorFlow/Keras, CNNs, transfer learning, confidence thresholding, TensorFlow Lite
+- Systems work: automation workflows, hardware-software integration, testing, documentation and validation
 
 ## Current Direction
 
