@@ -24,7 +24,7 @@ If you are reviewing my work, these projects best represent my current direction
   STM32 smart greenhouse system with sensor monitoring, local dashboard, Telegram bot control, RFID/PIN access and automated plant-care workflows.
 
 - [STM32 Snack Dispenser](https://github.com/FootOfTheFoot/stm32-snack-dispenser)  
-  Embedded snack vending system with keypad input, LCD/7-segment feedback, stepper motor dispensing, DAC sound cues and service diagnostics.
+  Embedded snack vending system with keypad input, LCD/7-segment feedback, 4 configured products, 3-second stepper motor dispensing cycles, DAC sound cues and service diagnostics.
 
 - [Autonomous Food Delivery Robot](https://github.com/FootOfTheFoot/autonomous-food-delivery-robot)  
   Arduino/ESP-01 robot prototype with line-following navigation, obstacle detection and Wi-Fi remote control.
