@@ -1,4 +1,4 @@
-Hi, I'm Nathan Chew
+# Hi, I'm Nathan Chew
 
 Year 3 Computer Engineering student building automation, measurement and applied AI systems.
 
