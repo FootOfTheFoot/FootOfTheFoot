@@ -1,4 +1,4 @@
-# Hi, I'm Nathan Chew
+Hi, I'm Nathan Chew
 
 Year 3 Computer Engineering student building automation, measurement and applied AI systems.
 
@@ -7,6 +7,9 @@ I work on projects that connect software, hardware, data and user workflows into
 ## Start Here
 
 If you are reviewing my work, these projects best represent my current direction:
+
+- [5G AIoT Occupancy Controller](https://github.com/FootOfTheFoot/5g-aiot-occupancy-controller)  
+  Smart-building prototype that combines face recognition, spoken entry and exit commands, occupancy logging and Raspberry Pi LED feedback over 5G.
 
 - [Brotanic Garden – Smart Greenhouse Monitoring & Control System](https://github.com/FootOfTheFoot/brotanic-garden-smart-greenhouse)  
   STM32 greenhouse automation system integrating sensors, a local dashboard, Telegram bot control, RFID/PIN access and plant-care workflows.
@@ -30,6 +33,9 @@ If you are reviewing my work, these projects best represent my current direction
   Arduino/ESP-01 robot prototype with line-following navigation, obstacle detection and Wi-Fi remote control.
 
 ### Applied AI
+- [5G AIoT Occupancy Controller](https://github.com/FootOfTheFoot/5g-aiot-occupancy-controller)  
+  Python occupancy controller using CodeProject.AI face recognition, Vosk speech recognition and adaptive face enrolment.
+
 - [Garlic vs Grape Image Classification](https://github.com/FootOfTheFoot/garlic-grape-classifier)  
   TensorFlow/Keras image classification system using custom CNNs, transfer learning, confidence thresholding and TensorFlow Lite deployment.
 
